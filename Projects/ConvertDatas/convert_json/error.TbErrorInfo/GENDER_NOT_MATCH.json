@@ -1,7 +1,0 @@
-{
-  "code": "GENDER_NOT_MATCH",
-  "desc": "",
-  "style": {
-    "$type": "ErrorStyleTip"
-  }
-}

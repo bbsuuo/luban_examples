@@ -1,4 +1,0 @@
-return {
-    id = 11,
-    text = {key='/demo/1',text="测试1"},
-}

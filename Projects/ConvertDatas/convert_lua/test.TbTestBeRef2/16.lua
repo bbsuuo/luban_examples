@@ -1,4 +1,0 @@
-return {
-    id = 16,
-    count = 10,
-}
